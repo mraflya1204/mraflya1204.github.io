@@ -74,7 +74,7 @@ footer {
     text-align: center;
     position: flex;
     bottom: 0;
-    width: 100%;
+    width: auto;
 }
 @media (min-width: 768px) {
     header {
