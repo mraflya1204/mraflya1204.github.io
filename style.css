@@ -80,6 +80,10 @@ footer {
     width: 100%;
     max-width: max-content;
 }
+.srcImageTooBig{
+    width: 50%;
+    max-width: max-content;
+}
 @media (min-width: 768px) {
     header {
         padding: 20px;
